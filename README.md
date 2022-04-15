@@ -3,7 +3,11 @@
 Collection of resources to learn Azure and prepare for certifications 
 
 Resources:
-* [Microsoft virtual training days](https://www.microsoft.com/es-es/training-days) (Spain) :white_check_mark: free
+* [Azure Architecture browser](https://docs.microsoft.com/en-us/azure/architecture/browse/)
+* [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/)
+* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/)
+* [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/)
+* [Microsoft virtual training days](https://www.microsoft.com/es-es/training-days) (Spain)
 
 ## Microsoft AZ-104 certification
 ### Certification overview
@@ -23,6 +27,7 @@ Resources:
 
 Study resources:
 * [Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/) (Microsoft Learn) :white_check_mark: free
+* [AZ-104 Microsoft Azure Administrator Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) :white_check_mark: free
 ### Manage Azure identities and governance
 
 Topics to study:
