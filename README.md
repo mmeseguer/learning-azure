@@ -5,6 +5,7 @@ Collection of resources to learn Azure and prepare for certifications
 Resources:
 * [Azure Architecture browser](https://docs.microsoft.com/en-us/azure/architecture/browse/)
 * [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/)
+* [Microsoft 30 days to learn it](https://developer.microsoft.com/offers/30-days-to-learn-it): Free courses with sandboxed test environents
 * [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/)
 * [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/)
 * [Microsoft virtual training days](https://www.microsoft.com/es-es/training-days) (Spain)
