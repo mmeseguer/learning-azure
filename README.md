@@ -2,13 +2,13 @@
 
 Collection of resources to learn Azure and prepare for certifications 
 
-Resources:
-* [Azure Architecture browser](https://docs.microsoft.com/en-us/azure/architecture/browse/)
-* [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/)
-* [Microsoft 30 days to learn it](https://developer.microsoft.com/offers/30-days-to-learn-it): Free courses with sandboxed test environents
-* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/)
-* [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/)
-* [Microsoft virtual training days](https://www.microsoft.com/es-es/training-days) (Spain)
+Resources and tools:
+* [Azure Architecture browser](https://docs.microsoft.com/en-us/azure/architecture/browse/): Microsoft architecture diagrams and descriptions for common workloads.
+* [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/): Guidance for architecting solutions on Azure using established patterns and practices.
+* [Microsoft 30 days to learn it](https://developer.microsoft.com/offers/30-days-to-learn-it): Free courses with sandboxed test environments
+* [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/): Guidance and best practices to adopt cloud.
+* [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/): Set of guiding tenets that can be used to improve the quality of a workload
+* [Microsoft virtual training days](https://www.microsoft.com/es-es/training-days) (Spain): Free virtual training events in Spain.
 
 ## Microsoft AZ-104 certification
 ### Certification overview
