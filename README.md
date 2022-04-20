@@ -1,6 +1,8 @@
 # Learning Azure
 
-Collection of resources to learn Azure and prepare for certifications 
+This is a collection of resources to learn Azure and prepare for certifications. 
+
+*By default, all the resources are free unless it's specified.*
 
 Resources and tools:
 * [Azure Architecture browser](https://docs.microsoft.com/en-us/azure/architecture/browse/): Microsoft architecture diagrams and descriptions for common workloads.
@@ -27,8 +29,9 @@ Resources and tools:
 
 
 Study resources:
-* [Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/) (Microsoft Learn) :white_check_mark: free
-* [AZ-104 Microsoft Azure Administrator Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) :white_check_mark: free
+* [Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/) (Microsoft Learn)
+* [AZ-104 Microsoft Azure Administrator Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
+
 ### Manage Azure identities and governance
 
 Topics to study:
@@ -37,7 +40,7 @@ Topics to study:
 * Manage subscriptions and governance
 
 Study resources:
-* [Manage identities and governance in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/) (Microsoft Learn) :white_check_mark: free
+* [Manage identities and governance in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-identities-governance/) (Microsoft Learn) 
 
 
 ### Implement and manage storage
@@ -48,7 +51,7 @@ Topics to study:
 * Configure Azure files and Azure Blob Storage
 
 Study resources:
-* [Implement and manage storage in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/) (Microsoft Learn) :white_check_mark: free
+* [Implement and manage storage in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/) (Microsoft Learn) 
 
 ### Deploy and manage Azure compute resources
 
@@ -59,7 +62,7 @@ Topics to study:
 * Create and configure Azure App Service
 
 Study resources:
-* [Deploy and manage Azure compute resources](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-compute-resources/) (Microsoft Learn) :white_check_mark: free
+* [Deploy and manage Azure compute resources](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-compute-resources/) (Microsoft Learn) 
 
 ### Configure and manage virtual networking
 
@@ -71,7 +74,7 @@ Topics to study:
 * Integrate an on-premises network with an Azure virtual network
 
 Study resources:
-* [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn) :white_check_mark: free
+* [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn) 
 
 ### Monitor and back up Azure resources
 
@@ -80,4 +83,4 @@ Topics to study:
 * Implement backup and recovery
 
 Study resources:
-* [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn) :white_check_mark: free
+* [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn) 
