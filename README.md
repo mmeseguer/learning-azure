@@ -2,9 +2,9 @@
 
 This is a collection of resources to learn Azure and prepare for certifications. 
 
-*By default, all the resources are free unless it's specified.*
+:pushpin: *By default, all the resources are free unless it's specified.*
 
-Resources and tools:
+## Azure general resources and tools:
 * [Azure Architecture browser](https://docs.microsoft.com/en-us/azure/architecture/browse/): Microsoft architecture diagrams and descriptions for common workloads.
 * [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/): Guidance for architecting solutions on Azure using established patterns and practices.
 * [Microsoft 30 days to learn it](https://developer.microsoft.com/offers/30-days-to-learn-it): Free courses with sandboxed test environments
@@ -34,6 +34,8 @@ Study resources:
 * John Savill YouTube videos:
   * [AZ-104 Azure Administrator Study List](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
   * [AZ-104 Azure Administrator Study Cram](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=2&t=995s)
+* [Microsoft AZ104 sample questions](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWSOFn)
+* [Examtopics AZ-104 practice exam](https://www.examtopics.com/exams/microsoft/az-104/)
 
 ### Manage Azure identities and governance
 
@@ -62,6 +64,7 @@ Topics to study:
 
 Study resources:
 * [Implement and manage storage in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/) (Microsoft Learn)
+* [Microsoft Azure Master Class Part 5 - Storage](https://www.youtube.com/watch?v=ZNuzmUKt6IE&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=18&t=1s) (John Savill)
 
 ### Deploy and manage Azure compute resources
 
@@ -73,6 +76,12 @@ Topics to study:
 
 Study resources:
 * [Deploy and manage Azure compute resources](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-compute-resources/) (Microsoft Learn) 
+* John Savill videos:
+  * [Microsoft Azure Master Class Part 7 - VMs and VMSS](https://www.youtube.com/watch?v=LLhzCgIJMdo&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=21)
+  * [Creating your first VM in Azure](https://www.youtube.com/watch?v=K-FQXgVZyl0&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=22)
+  * [Microsoft Azure Master Class Part 8 - Application Services](https://www.youtube.com/watch?v=_E73_SQN8ZU&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=23)
+  * [DevOps Master Class - Part 7 - Containers & Friends](https://www.youtube.com/watch?v=r6YIlPEC4y4&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=24)
+
 
 ### Configure and manage virtual networking
 
@@ -85,6 +94,9 @@ Topics to study:
 
 Study resources:
 * [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn) 
+* John Savill videos:
+  * [Microsoft Azure Master Class Part 6 - Networking](https://www.youtube.com/watch?v=K8ePZdLfU7M&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=19)
+  * [AZ-700 Designing and Implement Azure Networking Study SUPER Guide](https://www.youtube.com/watch?v=nVZYDhB_M64&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=20&t=1s)
 
 ### Monitor and back up Azure resources
 
@@ -94,3 +106,7 @@ Topics to study:
 
 Study resources:
 * [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn) 
+* John Savill videos:
+  * [Microsoft Azure Master Class Part 9 - Monitoring and Security](https://www.youtube.com/watch?v=hTS8jXEX_88&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=25)
+  * [Azure Security Center and Azure Sentinel Overview (AZ-500)](https://www.youtube.com/watch?v=rE-qgIgDCq8&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=26)
+  * [Microsoft Azure Master Class Part 4 - Resiliency](https://www.youtube.com/watch?v=zLMXu4rtlEk)
