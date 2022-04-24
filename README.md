@@ -84,10 +84,9 @@ Topics to study:
 
 Study resources:
 * [Implement and manage storage in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/) (Microsoft Learn)
+* [Microsoft Azure Master Class Part 5 - Storage](https://www.youtube.com/watch?v=ZNuzmUKt6IE&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=18&t=1s) (John Savill)
 * Microsoft Learning Labs:
   * [Manage Azure Storage](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html)
-
-* [Microsoft Azure Master Class Part 5 - Storage](https://www.youtube.com/watch?v=ZNuzmUKt6IE&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=18&t=1s) (John Savill)
 
 ### Deploy and manage Azure compute resources
 
@@ -99,17 +98,16 @@ Topics to study:
 
 Study resources:
 * [Deploy and manage Azure compute resources](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-compute-resources/) (Microsoft Learn) 
-* Microsoft Learning Labs:
-  * [Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
-  * [Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
-  * [Implement Azure Container Instances](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.html)
-  * [Implement Azure Kubernetes Service](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html)
 * John Savill videos:
   * [Microsoft Azure Master Class Part 7 - VMs and VMSS](https://www.youtube.com/watch?v=LLhzCgIJMdo&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=21)
   * [Creating your first VM in Azure](https://www.youtube.com/watch?v=K-FQXgVZyl0&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=22)
   * [Microsoft Azure Master Class Part 8 - Application Services](https://www.youtube.com/watch?v=_E73_SQN8ZU&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=23)
   * [DevOps Master Class - Part 7 - Containers & Friends](https://www.youtube.com/watch?v=r6YIlPEC4y4&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=24)
-
+* Microsoft Learning Labs:
+  * [Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
+  * [Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+  * [Implement Azure Container Instances](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.html)
+  * [Implement Azure Kubernetes Service](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html)
 
 ### Configure and manage virtual networking
 
@@ -122,14 +120,14 @@ Topics to study:
 
 Study resources:
 * [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn)
+* John Savill videos:
+  * [Microsoft Azure Master Class Part 6 - Networking](https://www.youtube.com/watch?v=K8ePZdLfU7M&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=19)
+  * [AZ-700 Designing and Implement Azure Networking Study SUPER Guide](https://www.youtube.com/watch?v=nVZYDhB_M64&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=20&t=1s)
 * Microsoft Learning Labs:
   * [Implement Virtual Networking](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
   * [Implement Intersite Connectivity](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html)
   * [Implement Traffic Management](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html)
-* [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn) 
-* John Savill videos:
-  * [Microsoft Azure Master Class Part 6 - Networking](https://www.youtube.com/watch?v=K8ePZdLfU7M&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=19)
-  * [AZ-700 Designing and Implement Azure Networking Study SUPER Guide](https://www.youtube.com/watch?v=nVZYDhB_M64&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=20&t=1s)
+
 
 ### Monitor and back up Azure resources
 
@@ -139,13 +137,13 @@ Topics to study:
 
 Study resources:
 * [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn)
+* * John Savill videos:
+  * [Microsoft Azure Master Class Part 9 - Monitoring and Security](https://www.youtube.com/watch?v=hTS8jXEX_88&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=25)
+  * [Azure Security Center and Azure Sentinel Overview (AZ-500)](https://www.youtube.com/watch?v=rE-qgIgDCq8&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=26)
+  * [Microsoft Azure Master Class Part 4 - Resiliency](https://www.youtube.com/watch?v=zLMXu4rtlEk)
 * Microsoft Learning Labs: 
   * [Backup virtual machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html)
   * [Microsoft Azure Master Class Part 4 - Resiliency](https://www.youtube.com/watch?v=zLMXu4rtlEk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=15&t=86s)
   * [Disaster Recovery in Microsoft Azure](https://www.youtube.com/watch?v=8fvO3WArG-Y&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=17&t=711s)
   * [Implement Monitoring](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html)
-* [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn) 
-* John Savill videos:
-  * [Microsoft Azure Master Class Part 9 - Monitoring and Security](https://www.youtube.com/watch?v=hTS8jXEX_88&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=25)
-  * [Azure Security Center and Azure Sentinel Overview (AZ-500)](https://www.youtube.com/watch?v=rE-qgIgDCq8&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=26)
-  * [Microsoft Azure Master Class Part 4 - Resiliency](https://www.youtube.com/watch?v=zLMXu4rtlEk)
+
