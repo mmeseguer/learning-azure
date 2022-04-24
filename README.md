@@ -10,6 +10,7 @@ Resources and tools:
 * [Microsoft 30 days to learn it](https://developer.microsoft.com/offers/30-days-to-learn-it): Free courses with sandboxed test environments
 * [Microsoft Cloud Adoption Framework for Azure](https://docs.microsoft.com/azure/cloud-adoption-framework/): Guidance and best practices to adopt cloud.
 * [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/azure/architecture/framework/): Set of guiding tenets that can be used to improve the quality of a workload
+* [Microsoft Learning Github](https://github.com/MicrosoftLearning): Set of labs for the Azure certifications.
 * [Microsoft virtual training days](https://www.microsoft.com/es-es/training-days) (Spain): Free virtual training events in Spain.
 
 ## Microsoft AZ-104 certification
@@ -29,11 +30,26 @@ Resources and tools:
 
 
 Study resources:
-* [Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/) (Microsoft Learn)
+
 * [AZ-104 Microsoft Azure Administrator Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
 * John Savill YouTube videos:
   * [AZ-104 Azure Administrator Study List](https://www.youtube.com/playlist?list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs)
   * [AZ-104 Azure Administrator Study Cram](https://www.youtube.com/watch?v=VOod_VNgdJk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=2&t=995s)
+
+### Prerequisites for Azure administrators
+
+* [Prerequisites for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/) (Microsoft Learn)
+* John Savill videos:
+  * [What IS Microsoft Azure?](https://www.youtube.com/watch?v=_x1V2ny8FWM&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=4)
+  * [Microsoft Azure Master Class Part 1 - Cloud Foundation](https://www.youtube.com/watch?v=aHJe0qBqwmk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=6)
+  * [Master the Azure Pricing Calculator](https://www.youtube.com/watch?v=rMKmbZ1SYQg&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=7)
+  * [Understanding Microsoft Azure Availability Zones!](https://www.youtube.com/watch?v=4nDRvZR2EjU&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=16&t=55s)
+* Microsoft Learning Labs:
+  * [Manage Azure resources by Using the Azure Portal](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03a-Manage_Azure_Resources_by_Using_the_Azure_Portal.html)
+  * [Manage Azure resources by Using ARM Templates](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html)
+  * [Manage Azure resources by Using Azure PowerShell](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03c-Manage_Azure_Resources_by_Using_Azure_PowerShell.html)
+  * [Manage Azure resources by Using Azure CLI](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03d-Manage_Azure_Resources_by_Using_Azure_CLI.html)
+
 
 ### Manage Azure identities and governance
 
@@ -52,6 +68,10 @@ Study resources:
   * [Microsoft Azure Managed Identity Deep Dive](https://www.youtube.com/watch?v=rC1TV0_sIrM&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=13)
   * [Microsoft Azure Master Class Part 3 - Governance](https://www.youtube.com/watch?v=cIh_Nfl67T0&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=14)
   * [Azure Role-Based Access Control Deep Dive](https://www.youtube.com/watch?v=qFoHDTxkQII&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=15)
+* Microsoft Learning Labs:
+  * [Manage Azure Active Directory Identities](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Azure_AD_Identities.html)
+  * [Manage Subscriptions and RBAC](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC.html)
+  * [Manage Governance via Azure Policy](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html)
 
 ### Implement and manage storage
 
@@ -62,6 +82,9 @@ Topics to study:
 
 Study resources:
 * [Implement and manage storage in Azure](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-storage/) (Microsoft Learn)
+* Microsoft Learning Labs:
+  * [Manage Azure Storage](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html)
+
 
 ### Deploy and manage Azure compute resources
 
@@ -73,6 +96,11 @@ Topics to study:
 
 Study resources:
 * [Deploy and manage Azure compute resources](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-compute-resources/) (Microsoft Learn) 
+* Microsoft Learning Labs:
+  * [Manage Virtual Machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_08-Manage_Virtual_Machines.html)
+  * [Implement Web Apps](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09a-Implement_Web_Apps.html)
+  * [Implement Azure Container Instances](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09b-Implement_Azure_Container_Instances.html)
+  * [Implement Azure Kubernetes Service](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_09c-Implement_Azure_Kubernetes_Service.html)
 
 ### Configure and manage virtual networking
 
@@ -84,7 +112,11 @@ Topics to study:
 * Integrate an on-premises network with an Azure virtual network
 
 Study resources:
-* [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn) 
+* [Configure and manage virtual networks for Azure administrators](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/) (Microsoft Learn)
+* Microsoft Learning Labs:
+  * [Implement Virtual Networking](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html)
+  * [Implement Intersite Connectivity](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html)
+  * [Implement Traffic Management](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html)
 
 ### Monitor and back up Azure resources
 
@@ -93,4 +125,9 @@ Topics to study:
 * Implement backup and recovery
 
 Study resources:
-* [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn) 
+* [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn)
+* Microsoft Learning Labs: 
+  * [Backup virtual machines](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_10-Implement_Data_Protection.html)
+  * [Microsoft Azure Master Class Part 4 - Resiliency](https://www.youtube.com/watch?v=zLMXu4rtlEk&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=15&t=86s)
+  * [Disaster Recovery in Microsoft Azure](https://www.youtube.com/watch?v=8fvO3WArG-Y&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=17&t=711s)
+  * [Implement Monitoring](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_11-Implement_Monitoring.html)
