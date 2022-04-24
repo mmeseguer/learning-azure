@@ -137,7 +137,7 @@ Topics to study:
 
 Study resources:
 * [Monitor and back up Azure resources](https://docs.microsoft.com/en-us/learn/paths/az-104-monitor-backup-resources/) (Microsoft Learn)
-* * John Savill videos:
+* John Savill videos:
   * [Microsoft Azure Master Class Part 9 - Monitoring and Security](https://www.youtube.com/watch?v=hTS8jXEX_88&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=25)
   * [Azure Security Center and Azure Sentinel Overview (AZ-500)](https://www.youtube.com/watch?v=rE-qgIgDCq8&list=PLlVtbbG169nGlGPWs9xaLKT1KfwqREHbs&index=26)
   * [Microsoft Azure Master Class Part 4 - Resiliency](https://www.youtube.com/watch?v=zLMXu4rtlEk)
